@@ -1,7 +1,7 @@
 # This repository shows JS code which i wrote to practice basic JS.
 
 In the first class,i have learned about variable,data types,data type conversion,comparison operators in JS.
-[The firsth assignment link](https://github.com/Ashikkkkkkk/Basic-JS-Practice/blob/main/basic-1.js)
+[The first assignment link](https://github.com/Ashikkkkkkk/Basic-JS-Practice/blob/main/basic-1.js)
 
 In the second class,i have learned about arithmetic operators,conditional statements in JS.
 [The second assignment link](https://github.com/Ashikkkkkkk/Basic-JS-Practice/blob/main/basic-2.js)
