@@ -1,3 +1,9 @@
+// var student = {
+// name: "Your name",
+// age : 22,
+// numbers: [89, 76, 56] 
+// } 
+//  write a method inside the student object that will calculate the average of the numbers.
 var student ={ 
     name: "Ashik", 
     age : 22, 
@@ -9,6 +15,10 @@ var student ={
 console.log(student.average())
 
 
+// Create an object called person with properties like name, age, and occupation. Then, write functions to:
+// Access and print each of the properties of the person object.
+// Modify the value of a specific property (e.g., update age).
+// Add a new property (e.g., hobbies).
 var person={
     Name:"Lionel Messi",
     Age:36,
